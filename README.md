@@ -37,5 +37,5 @@ Arabic dataset:
 | TaskA | Random Forest | 89.2% | 52.4% | 53.7% |
 | TaskA | SVM | 87.2% | 58.1% | 54.3% |
 | TaskA | Bi-LSTM | 77.9% | 52.4% | 54.8% |
-| TaskB | KNN | 88.2% | 79.9 | 76.9% |
+| TaskB | KNN | 88.2% | 79.9% | 76.9% |
 | TaskB | LSTM | 74.8% | 63.6% | 64.3% |
