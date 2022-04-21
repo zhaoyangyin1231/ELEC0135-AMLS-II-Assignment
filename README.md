@@ -22,9 +22,10 @@ The assignment is to solve the Twitter sentiment analysis tasks. For both task A
 The code is separated in three files, for data preprocessing, task A and task B. 
 Both files include the functions need for data pre-processing and/or model training. To execute the code, for jupyter notebook file, click Run button to run the whole program or click run icon of each line to run the single code block. For Python file, run main.py
 ## Results
-English dataset:
+
 |       | Model | Training Accuracy | Validation Accuracy | Testing  Accuracy |
 | :----: | :----: | :----: | :----: | :----: |
+English dataset:
 | TaskA | Logistic Regression | 83.0% | 60.9% | 60.8% |
 | TaskA | Random Forest | 88.0% | 58.6% | 56.6% |
 | TaskA | SVM | 91.3% | 61.2% | 61.0% |
