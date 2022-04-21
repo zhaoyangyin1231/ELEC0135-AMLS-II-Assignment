@@ -4,6 +4,32 @@ from taskA_bidirectional_lstm.py import *
 from taskA_LR_RF_SVM.py import *
 from taskB_knn.py import *
 from taskB_lstm.py import *
+# import
+import re
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+import seaborn as sns
+import string
+import nltk
+from wordcloud import WordCloud
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import f1_score
+from sklearn.metrics import classification_report
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.feature_extraction.text import CountVectorizer
+from scipy.sparse import coo_matrix
+
+from sklearn.metrics import classification_report
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import svm
+from sklearn import neighbors
+from sklearn.naive_bayes import MultinomialNB
 
 
 
