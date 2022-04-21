@@ -32,8 +32,6 @@ English dataset:
 | TaskB | KNN | 90.8% | 82.3% | 80.4% |
 | TaskB | LSTM | 99.8% | 82.3% | 82.1% |
 Arabic dataset:
-|       | Model | Training Accuracy | Validation Accuracy | Testing  Accuracy |
-| :----: | :----: | :----: | :----: | :----: |
 | TaskA | Logistic Regression | 85.0% | 58.4% | 56.3% |
 | TaskA | Random Forest | 89.2% | 52.4% | 53.7% |
 | TaskA | SVM | 872.3% | 58.1% | 54.3% |
