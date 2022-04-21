@@ -31,7 +31,7 @@ English dataset:
 | TaskA | Bi-LSTM | 89.2% | 60.5% | 61.3% |
 | TaskB | KNN | 90.8% | 82.3% | 80.4% |
 | TaskB | LSTM | 99.8% | 82.3% | 82.1% |
-- Arabic dataset:
+Arabic dataset:
 |       | Model | Training Accuracy | Validation Accuracy | Testing  Accuracy |
 | :----: | :----: | :----: | :----: | :----: |
 | TaskA | Logistic Regression | 85.0% | 58.4% | 56.3% |
